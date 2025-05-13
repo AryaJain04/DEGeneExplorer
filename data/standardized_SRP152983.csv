@@ -1,0 +1,31 @@
+sample,Tissue,Condition,Treatment group,Age,Gender,Ethnicity,Race,Assay Type,Version
+GSM3263492,Blood,Case,Rheumatoid arthritis,59,male,NA,NA,RNA-Seq,1
+GSM3263493,Blood,Case,Rheumatoid arthritis,59,male,NA,NA,RNA-Seq,1
+GSM3263494,Synovial fluid,Case,Rheumatoid arthritis,59,male,NA,NA,RNA-Seq,1
+GSM3263495,Synovial fluid,Case,Rheumatoid arthritis,59,male,NA,NA,RNA-Seq,1
+GSM3263496,Blood,Case,Rheumatoid arthritis,77,female,NA,NA,RNA-Seq,1
+GSM3263497,Blood,Case,Rheumatoid arthritis,77,female,NA,NA,RNA-Seq,1
+GSM3263498,Synovial fluid,Case,Rheumatoid arthritis,77,female,NA,NA,RNA-Seq,1
+GSM3263499,Synovial fluid,Case,Rheumatoid arthritis,77,female,NA,NA,RNA-Seq,1
+GSM3263500,Blood,Case,Rheumatoid arthritis,55,female,NA,NA,RNA-Seq,1
+GSM3263501,Blood,Case,Rheumatoid arthritis,55,female,NA,NA,RNA-Seq,1
+GSM3263502,Blood,Control,Healthy,40,female,NA,NA,RNA-Seq,1
+GSM3263503,Blood,Control,Healthy,40,female,NA,NA,RNA-Seq,1
+GSM3263504,Blood,Control,Healthy,57,female,NA,NA,RNA-Seq,1
+GSM3263505,Blood,Control,Healthy,57,female,NA,NA,RNA-Seq,1
+GSM3263506,Blood,Case,Rheumatoid arthritis,43,male,NA,NA,RNA-Seq,1
+GSM3263507,Blood,Case,Rheumatoid arthritis,43,male,NA,NA,RNA-Seq,1
+GSM3263508,Synovial fluid,Case,Rheumatoid arthritis,43,male,NA,NA,RNA-Seq,1
+GSM3263509,Synovial fluid,Case,Rheumatoid arthritis,43,male,NA,NA,RNA-Seq,1
+GSM3263510,Blood,Case,Rheumatoid arthritis,29,male,NA,NA,RNA-Seq,1
+GSM3263511,Blood,Case,Rheumatoid arthritis,29,male,NA,NA,RNA-Seq,1
+GSM3263512,Blood,Case,Rheumatoid arthritis,27,female,NA,NA,RNA-Seq,1
+GSM3263513,Blood,Case,Rheumatoid arthritis,27,female,NA,NA,RNA-Seq,1
+GSM3263514,Blood,Case,Rheumatoid arthritis,40,female,NA,NA,RNA-Seq,1
+GSM3263515,Blood,Case,Rheumatoid arthritis,40,female,NA,NA,RNA-Seq,1
+GSM3263516,Blood,Control,Healthy,35,male,NA,NA,RNA-Seq,1
+GSM3263517,Blood,Control,Healthy,35,male,NA,NA,RNA-Seq,1
+GSM3263518,Blood,Control,Healthy,26,female,NA,NA,RNA-Seq,1
+GSM3263519,Blood,Control,Healthy,26,female,NA,NA,RNA-Seq,1
+GSM3263520,Blood,Control,Healthy,43,male,NA,NA,RNA-Seq,1
+GSM3263521,Blood,Control,Healthy,43,male,NA,NA,RNA-Seq,1
