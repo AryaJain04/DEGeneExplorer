@@ -6,7 +6,7 @@ DEGeneExplorer is a reproducible, Shiny-based application designed to help resea
 
 ---
 
-🔍 Features
+Features
 
 - Search by **gene symbol** (e.g., `TP53`) or **Ensembl ID** (e.g., `ENSG00000141510`)
 - Apply filters: adjusted p-value (`padj`) and log₂ fold change
@@ -18,7 +18,7 @@ DEGeneExplorer is a reproducible, Shiny-based application designed to help resea
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 
@@ -36,7 +36,7 @@ DEGeneExplorer/
 
 ---
 
-## 🧪 Data & Pipeline Summary
+## Data & Pipeline Summary
 
 - Processed **9 public RNA-seq studies** from GEO/recount3
 - DE analysis performed using **DESeq2** via the `nf-core/differentialabundance` pipeline
@@ -47,12 +47,12 @@ DEGeneExplorer/
 
 ---
 
-## ⚙️ Running the Pipeline on HPC
+## Running the Pipeline on HPC
 
 - You can run the DESeq2 analysis pipeline using the included SLURM job script: `test.slurm`
 - Customize samplesheet.csv, metadata.csv, and output_dir as needed for each dataset.
 
-## ▶️ Running the App Locally
+## Running the App Locally
 
 1. **Install R and dependencies**  
    R ≥ 4.1.0 required. Install required packages:
@@ -76,7 +76,7 @@ DEGeneExplorer/
 
 ---
 
-## ☁️ Deployment Options
+## Deployment Options
 
 * Local (RStudio)
 * Institutional or cloud-based Shiny Server
@@ -85,7 +85,7 @@ DEGeneExplorer/
 
 ---
 
-## 🐳 Future Features
+## Future Features
 
 * Dockerized deployment environment
 * Live database backend (e.g., PostgreSQL)
@@ -94,13 +94,13 @@ DEGeneExplorer/
 
 ---
 
-## 📜 License
+## License
 
 This project is provided for academic use. See `LICENSE` for usage terms.
 
 ---
 
-## 🧾 Citation
+## Citation
 
 If you use DEGeneExplorer in your research or teaching, please cite:
 
@@ -108,7 +108,7 @@ If you use DEGeneExplorer in your research or teaching, please cite:
 
 ---
 
-## 🔗 Resources
+## Resources
 
 * GitHub: [github.com/AryaJain04/DEGeneExplorer](https://github.com/AryaJain04/DEGeneExplorer)
 * Pipeline: [nf-core/differentialabundance](https://nf-co.re/differentialabundance)
