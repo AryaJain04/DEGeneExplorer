@@ -24,13 +24,13 @@ DEGeneExplorer is a reproducible, Shiny-based application designed to help resea
 
 DEGeneExplorer/
 ├── app.R                       # R Shiny application
-├── annotate\_results.R         # Script for annotating DESeq2 results
-├── Master\_table.R             # Aggregates annotated results into a master file
-├── Metadata\_count\_align.R     # Aligns count matrix and metadata sample IDs
+├── annotate_results.R         # Script for annotating DESeq2 results
+├── Master_table.R             # Aggregates annotated results into a master file
+├── Metadata_count_align.R     # Aligns count matrix and metadata sample IDs
 ├── standardmetadata.R         # Standardizes metadata column formats across studies
 ├── data/                      # Directory for study-specific input files
 ├── result/                    # Directory for pipeline output and reports
-└── master\_deseq2\_annotated\_combined.csv  # Main input for app (generated)
+└── master_deseq2_annotated_combined.csv  # Main input for app (generated)
 
 ````
 
@@ -54,6 +54,7 @@ DEGeneExplorer/
 
    ```r
    install.packages(c("shiny", "DT", "dplyr", "readr", "ggplot2", "bslib"))
+   ```
 
 2. **Download files**
    Ensure the following files are present in the working directory:
