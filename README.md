@@ -47,13 +47,18 @@ DEGeneExplorer/
 
 ---
 
+## ⚙️ Running the Pipeline on HPC
+
+- You can run the DESeq2 analysis pipeline using the included SLURM job script: `test.slurm`
+- Customize samplesheet.csv, metadata.csv, and output_dir as needed for each dataset.
+
 ## ▶️ Running the App Locally
 
 1. **Install R and dependencies**  
    R ≥ 4.1.0 required. Install required packages:
 
    ```r
-   install.packages(c("shiny", "DT", "dplyr", "readr", "ggplot2", "bslib"))
+   install.packages(c("shiny", "DT", "dplyr", "readr", "ggplot2", "bslib", "data.table"))
    ```
 
 2. **Download files**
@@ -108,6 +113,8 @@ If you use DEGeneExplorer in your research or teaching, please cite:
 * GitHub: [github.com/AryaJain04/DEGeneExplorer](https://github.com/AryaJain04/DEGeneExplorer)
 * Pipeline: [nf-core/differentialabundance](https://nf-co.re/differentialabundance)
 * DESeq2: [Genome Biology, 2014](https://doi.org/10.1186/s13059-014-0550-8)
+* RStudio (IDE for R): [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+
 
 
 
